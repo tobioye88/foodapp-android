@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FoodStack</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_one_name">Stack</string>
+    <string name="tab_two_name">Categories</string>
+    <string name="tab_three_name">Cart</string>
+    <string name="special_header">Available</string>
+    <string name="phone_or_email">Phone or Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="btn_login_text">Login</string>
+    <string name="create_an_account">Create An Account</string>
+</resources>
